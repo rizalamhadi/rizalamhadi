@@ -8,6 +8,11 @@
 ## Github Performance
 ![github stats](https://github-readme-stats.vercel.app/api?username=rizalamhadi&show_icons=true)
 
+## 📈 GitHub Stats 
+
+[![rizalamhadi github stats](https://github-readme-stats.vercel.app/api?username=rizalamhadi)](https://github.com/rizalamhadi)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=rizalamhadi.rizalamhadi)](https://www.yushi.dev/)
 
 ## 💼 Technical Skills
 
