@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Web Developer
 - 📫 You can email at Rizalamhadi@gmail.com to reach me
 - 
-https://github-profile-trophy.vercel.app/?username=rizalamhadi&theme=dracula
+[![trophy](https://github-profile-trophy.vercel.app/?username=rizalamhadi&theme=dracula)](https://github.com/rizalamhadi/github-profile-trophy)
+
 
 ## 📈 GitHub Stats 
 
